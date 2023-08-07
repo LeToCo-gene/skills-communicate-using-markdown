@@ -10,3 +10,9 @@
 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+### Do we really need to init the git everytime?  I wonder.
+
+- [ ] Turn on GitHub CI CD Pipelines
+- [ ] Outline my portfolio and tasks
+- [ ] Take over the world?
